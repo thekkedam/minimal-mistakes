@@ -11,5 +11,6 @@ codekit-config.json
 example/_site
 Gemfile.lock
 node_modules
-npm-debug.log*# Added by script - add other file before this.
+npm-debug.log*
+# Added by script - add other file before this.
 run-cmd.log
